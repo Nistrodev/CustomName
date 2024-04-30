@@ -1,0 +1,10 @@
+prefix: §6[§eCustomName§6] §r
+
+messages:
+# French
+    no-permission: "§cVous n'avez pas la permission d'utiliser cette commande."
+    invalid-arguments: "§cArguments invalides. Utilisation: /customname <name>"
+    rename: "§aNom personnalisé défini sur §e%name%§a."
+    reset: "§aNom personnalisé retiré."
+    no-console: "§cVous devez être un joueur pour utiliser cette commande."
+    invalid-item: "§cVous devez tenir un objet pour utiliser cette commande."

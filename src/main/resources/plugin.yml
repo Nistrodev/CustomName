@@ -1,0 +1,11 @@
+name: CustomName
+version: 0.0.1
+author: Nistro
+description: CustomName allows players to personalize their Minecraft experience by renaming items in-game with a simple command.
+main: fr.nistro.customname.Main
+api: INVALID
+
+commands:
+    rename:
+        description: Rename an item.
+        usage: /rename <name>
