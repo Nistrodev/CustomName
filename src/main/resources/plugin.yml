@@ -1,5 +1,5 @@
 name: CustomName
-version: 0.0.1
+version: 1.0.1
 author: Nistro
 description: CustomName allows players to personalize their Minecraft experience by renaming items in-game with a simple command.
 main: fr.nistro.customname.Main

@@ -17,10 +17,12 @@ public class ConfigUtil {
 	public ConfigUtil(String path) {
 		this.file = new File(path);
 		this.config = YamlConfiguration.loadConfiguration(this.file);
+		this.config.options().copyDefaults(true);
 	}
 	
 	public boolean save() {
 		try {
+			this.config.options().copyDefaults(true);
 			this.config.save(this.file);
 			return true;
 		} catch (Exception e) {
