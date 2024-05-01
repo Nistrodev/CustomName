@@ -14,8 +14,14 @@ Minecraft plugin allowing players to rename items using a command. Simply hold t
 
 ## Usage
 
-1. Take any item in your hand.
-2. Use the command /rename <name>
+Once installed and enabled, CustomName provides the following commands:
+
+- `/rename <name>`: Set a custom name.
+- `/rename reset`: Reset the custom name.
+
+## Example
+![ezgif-5-43c7f26258](https://github.com/Nistrodev/CustomName/assets/109731762/e7ffe375-cb5c-4792-9529-f225a7915a07)
+
 
 ## Support
 
