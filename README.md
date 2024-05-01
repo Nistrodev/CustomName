@@ -25,4 +25,4 @@ Once installed and enabled, CustomName provides the following commands:
 
 ## Support
 
-If you encounter any issues or have suggestions for improvements, please create a new issue on the GitHub repository.
+If you encounter any issues or have suggestions for improvements, please create a new issue on the [GitHub repository](https://github.com/Nistrodev/CustomName/issues).
