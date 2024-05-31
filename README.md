@@ -5,7 +5,7 @@ Minecraft plugin allowing players to rename items using a command. Simply hold t
 ## Features
 
 - **Rename**: /rename <name>
-- **Rename reset*: /rename reset
+- *Rename reset*: /rename reset
 
 ## Installation
 
